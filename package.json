@@ -1,0 +1,39 @@
+{
+  "name": "leaflet-boilerplate",
+  "version": "1.0.0",
+  "description": "Modern front-end template for building Leaflet web mapping applications",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefanocudini/leaflet-boilerplate.git"
+  },
+  "homepage": "http://labs.easyblog.it/maps/leaflet-boilerplate",
+  "main": "index.js",
+  "author": "Stefano Cudini <stefano.cudini@gmail.com>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "leaflet",
+    "template",
+    "web mapping",
+    "bootstrap",
+    "map",
+    "gis"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanocudini/leaflet-boilerplate/issues"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "leaflet": "^0.7.7"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1"
+  }
+}
