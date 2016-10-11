@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.6",
+    "html5-boilerplate": "0.0.1",
     "leaflet": "^0.7.7"
   },
   "devDependencies": {
